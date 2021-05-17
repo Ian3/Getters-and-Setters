@@ -1,2 +1,2 @@
-# Getters-and-Setters
+# freeCodeCamp challenge: Getters-and-Setters
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object
